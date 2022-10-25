@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://aadityabuchale.io)
 <h1 align="center">Hi 👋, I'm Aaditya Buchale</h1>
-<h3 align="center">A Coding Enthusiast who is currently Exploring New things...!</h3>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"
+<h3 align="center">A Coding Enthusiast who is currently Exploring New things...!</h3><br><br>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6/fullscreen"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityabuchale&label=Profile%20views&color=0e75b6&style=flat" alt="aadityabuchale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aaditya_ab_" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya_ab_?logo=twitter&style=for-the-badge" alt="aaditya_ab_" /></a> </p>
