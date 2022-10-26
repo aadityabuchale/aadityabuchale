@@ -3,6 +3,7 @@
 <h3 align="center">A Coding Enthusiast who is currently Exploring New things...!</h3><br><br>
 <!-- <img src="https://giphy.com/embed/L8K62iTDkzGX6" width="400" align="right"> -->
 <div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityabuchale&label=Profile%20views&color=0e75b6&style=flat" alt="aadityabuchale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aaditya_ab_" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya_ab_?logo=twitter&style=for-the-badge" alt="aaditya_ab_" /></a> </p>
