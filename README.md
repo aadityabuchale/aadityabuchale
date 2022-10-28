@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Web Development Project**
 
-- 🌱 I’m currently learning **Flutter,Dart,Java & its Technologies**
+- 🌱 I’m currently learning **Flutter,Dart,Java & its Technologies,etc**
 
-- 💬 Ask me about **Java,HTML,CSS,JavaScript**
+- 💬 Ask me about **Java,HTML,CSS,JavaScript.**
 
 - 📫 How to reach me **aadityabuchale15@gmail.com**
 
