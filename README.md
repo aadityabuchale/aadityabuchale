@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart,Java & its Technologies,etc**
 
-- 💬 Ask me about **Java,HTML,CSS,JavaScript.**
+- 💬 Ask me about **Java,HTML,CSS,Bootstrap,JavaScript.**
 
 - 📫 How to reach me **aadityabuchale15@gmail.com**
 
