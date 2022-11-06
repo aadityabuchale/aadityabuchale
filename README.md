@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aaditya_ab_" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya_ab_?logo=twitter&style=for-the-badge" alt="aaditya_ab_" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Project**
+- 🔭 I’m currently working on **Full Stack Development Project**
 
 - 🌱 I’m currently learning **Flutter,Dart,Java & its Technologies,etc**
 
