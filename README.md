@@ -8,11 +8,13 @@
 
 - 🔭 I’m currently working on **Full Stack Development Project**
 
-- 🌱 I’m currently learning **Flutter,Dart,Data Structures & Algorithms, Java & its Technologies,etc**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Java & its Technologies,Flutter,Dart,etc**
 
-- 💬 Ask me about **Java,HTML,CSS,Bootstrap,JavaScript.**
+- 💬 Ask me about **Java,HTML,CSS,Bootstrap,JavaScript.,Java Language**
 
 - 📫 How to reach me **aadityabuchale15@gmail.com**
+
+- ⚡ Fun fact **What shoes do computers love the most? Re-boots!**
 
 <br>
 <br>
