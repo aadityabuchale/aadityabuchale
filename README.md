@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development Project**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Java & its Technologies,Flutter,Dart,etc**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Java &     its Technologies,Flutter,Dart,etc**
 
 - 💬 Ask me about **Java,HTML,CSS,Bootstrap,JavaScript.,Java Language**
 
