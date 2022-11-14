@@ -2,6 +2,7 @@
 <h1 align="center">Hey 🙋‍♂️, I'm Aaditya Buchale</h1>
 <h3 align="center">A Programming Enthusiast who is currently Exploring New things...!</h3><br><br><br>
 <img src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611a51aead193dbdd544e51ffcda7e7cac2ceba855b&rid=giphy.gif&ct=g" width="420" align="right" style="border-radius:5%;margin-top:10%">
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityabuchale&label=Profile%20views&color=0e75b6&style=flat" alt="aadityabuchale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aaditya_ab_" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya_ab_?logo=twitter&style=for-the-badge" alt="aaditya_ab_" /></a> </p>
