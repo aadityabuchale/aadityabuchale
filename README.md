@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Full Stack Development Project**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Java & <br>its Technologies,Flutter,Dart,etc**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Java & <br>Node.Js,MongoDB and NextJs  ,etc**
 
-- 💬 Ask me about **Java,HTML,CSS,Bootstrap,JavaScript.,Java Language**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, MongoDB, ExpressJs, Java**
 
 - 📫 How to reach me **aadityabuchale15@gmail.com**
 
