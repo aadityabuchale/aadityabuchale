@@ -1,4 +1,3 @@
-
 <br>[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://aadityabuchale.io)
 <h1 align="center">Hey 🙋‍♂️, I'm Aaditya Buchale</h1>
 <h3 align="center">A passionate programming enthusiast on a journey of continuous exploration and discovery!</h3><br><br><br>
